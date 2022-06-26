@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings><!--此文件由 Ruby 插件自动生成。
+您可以:
+1. 重新排序生成器
+2. 移除生成器
+3. 添加已安装的生成器
+要自动添加新安装的生成器，请删除此文件并重新加载项目。
+--><GeneratorsGroup><Generator name="active_record:application_record" /><Generator name="active_record:multi_db" /><Generator name="application_record" /><Generator name="benchmark" /><Generator name="capistrano:nginx_puma:config" /><Generator name="channel" /><Generator name="controller" /><Generator name="generator" /><Generator name="helper" /><Generator name="integration_test" /><Generator name="jbuilder" /><Generator name="job" /><Generator name="mailbox" /><Generator name="mailer" /><Generator name="migration" /><Generator name="model" /><Generator name="resource" /><Generator name="scaffold" /><Generator name="scaffold_controller" /><Generator name="stimulus" /><Generator name="system_test" /><Generator name="task" /><Generator name="test_unit:channel" /><Generator name="test_unit:generator" /><Generator name="test_unit:install" /><Generator name="test_unit:mailbox" /><Generator name="test_unit:plugin" /></GeneratorsGroup></Settings>
